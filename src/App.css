@@ -40,3 +40,19 @@
 .read-the-docs {
   color: #888;
 }
+
+h1{
+  color: rgb(85, 13, 13);
+  
+}
+
+.Name{
+  width: 20rem;
+  height: 20rem;
+  background-image: url(https://i.pinimg.com/736x/5a/7b/e2/5a7be21d42046c3f8f2c01403cc6e37b.jpg);
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+}
