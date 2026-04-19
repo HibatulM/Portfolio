@@ -1,15 +1,21 @@
-import { useState } from 'react'
-
 import './App.css'
 
 const App  = () => {
   return (
-    <>
-      <div className='Name'>
-        <h1>Maira Shareef is here!!</h1>
-      </div>
+    <body>
+      <header>
+        <nav>
+          <ul className="">
+            <li>Home</li>
+            <li>Services</li>
+            <li>Projects</li>
+            <li>About</li>
+            <li>Contact Me</li>
+          </ul>
+        </nav>
+      </header>
       
-    </>
+    </body>
   )
 }
 
